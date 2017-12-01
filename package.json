@@ -87,6 +87,7 @@
   "dependencies": {
     "babel-runtime": "^5.6.18",
     "classnames": "^2.1.2",
-    "moment": "^2.8.2"
+    "moment": "^2.8.2",
+    "prop-types": "^15.6.0"
   }
 }
